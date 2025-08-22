@@ -24,7 +24,7 @@ This repository contains the replication package for the paper "CoRaCMG: Context
     └── prompt.py            # Prompt templates and task generation
 ```
 
-## Environment Setup
+## Environment Setup
 
 Install the required dependencies:
 
