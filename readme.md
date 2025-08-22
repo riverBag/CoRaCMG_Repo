@@ -7,6 +7,7 @@ This repository contains the replication package for the paper "CoRaCMG: Context
 ![CoRaCMG Overview](overview.png)
 
 ## Repository Structure
+```
 ├── ApacheCM/                # Apache project commit dataset
 │   ├── full.jsonl           # Complete dataset
 │   └── test.jsonl           # Test dataset
@@ -21,6 +22,7 @@ This repository contains the replication package for the paper "CoRaCMG: Context
     │   ├── cider.py         # CIDEr evaluation metric
     │   └── cider_scorer.py  # CIDEr scorer
     └── prompt.py            # Prompt templates and task generation
+```
 
 ## Environment Setup
 
